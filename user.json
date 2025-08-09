@@ -29,10 +29,10 @@
             "device_id": "c2e62c45da23bdc6"
         },
         {
-            "username": "Tiger",
-            "password": "$2y$12$k4nN0GdrhosJIyzAlDvqJeWU9BVx.9w1ijnEBLX4Q5VL2uMA3WQb6",
+            "username": "admin",
+            "password": "admin",
             "subscription": "aimkillapk",
-            "expiry": "2025-06-10",
+            "expiry": "2029-06-10",
             "device_id": "ee83293478f0b334"
         },
         {
